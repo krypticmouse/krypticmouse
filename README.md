@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/krypticmouse" target="blank"><img src="https://img.shields.io/twitter/follow/krypticmouse?logo=twitter&style=for-the-badge" alt="krypticmouse" /></a> </p>
 
-- 🔭 I’m currently working on **Podcast Summerization**
+- 🔭 I’m currently working on **Text Guided Audio Editing**
 
-- 🌱 I’m currently learning **JAX and Linear Algebra**
+- 🌱 I’m currently learning **Reinforcement Learning**
 
 - 👯 I’m looking to collaborate on **Research Papers**
 
@@ -13,7 +13,7 @@
 
 - 📝 All of my blogs are available [**here**](https://krypticmouse.github.io/blogs.html)
 
-- 💬 Ask me about **ML, DL, IoT, NLP, CV**
+- 💬 Ask me about **ML, DL, IoT, NLP, CV, Web**
 
 - 📫 How to reach me **herumbshandilay123@gmail.com**
 
