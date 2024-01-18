@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/krypticmouse" target="blank"><img src="https://img.shields.io/twitter/follow/krypticmouse?logo=twitter&style=for-the-badge" alt="krypticmouse" /></a> </p>
 
-- 🔭 I’m currently working on **Text Guided Audio Editing**
+- 🔭 I’m currently working on **ColBERT and DSPy**
 
-- 🌱 I’m currently learning **Reinforcement Learning**
+- 🌱 I’m currently learning **Rust, Distributed Systems and Compiler Optimizations**
 
-- 👯 I’m looking to collaborate on **Research Papers**
+- 👯 I’m looking to collaborate on **Research around LLM Agents**
 
 - 👨‍💻 All of my projects are available at [krypticmouse.github.io/](krypticmouse.github.io/)
 
