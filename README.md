@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Herumb Shandilya a.k.a. krypticmouse</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krypticmouse&label=Profile%20views&color=0e75b6&style=flat" alt="krypticmouse" /> </p>
-
-<p align="left"> <a href="https://twitter.com/krypticmouse" target="blank"><img src="https://img.shields.io/twitter/follow/krypticmouse?logo=twitter&style=for-the-badge" alt="krypticmouse" /></a> </p>
+<p align="left"> <a href="https://twitter.com/krypticmouse" target="blank"><img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/krypticmouse" alt="krypticmouse" /></a> </p>
 
 - 🔭 I’m currently working on **ColBERT and DSPy**
 
