@@ -9,9 +9,9 @@
 
 - 👯 I’m looking to collaborate on **Research around LLM Agents**
 
-- 👨‍💻 All of my projects are available at [krypticmouse.github.io/](krypticmouse.github.io/)
+- 👨‍💻 All of my projects are available at [krypticmouse.github.io/](https://www.herumbshandilya.com/projects)
 
-- 📝 All of my blogs are available [**here**](https://krypticmouse.github.io/blogs.html)
+- 📝 All of my blogs are available [**here**](https://journal.herumbshandilya.com/)
 
 - 💬 Ask me about **ML, DL, IoT, NLP, CV, Web**
 
