@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Research around LLM Agents**
 
-- 👨‍💻 All of my projects are available at [krypticmouse.github.io/](https://www.herumbshandilya.com/projects)
+- 👨‍💻 All of my projects are available at [my portforlio](https://www.herumbshandilya.com/projects)
 
 - 📝 All of my blogs are available [**here**](https://journal.herumbshandilya.com/)
 
