@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **ColBERT and DSPy**
 
-- 🌱 I’m currently learning **Rust, Distributed Systems and Compiler Optimizations**
+- 🌱 I’m currently learning **JAX, Distributed Systems and Compiler Optimizations**
 
 - 👯 I’m looking to collaborate on **Research around LLM Agents**
 
