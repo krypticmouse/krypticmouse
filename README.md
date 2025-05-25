@@ -2,11 +2,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krypticmouse&label=Profile%20views&color=0e75b6&style=flat" alt="krypticmouse" /> </p>
 <p align="left"> <a href="https://twitter.com/krypticmouse" target="blank"><img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/krypticmouse" alt="krypticmouse" /></a> </p>
 
-- 🔭 I’m currently working on **ColBERT and DSPy**
+- 🔭 I’m currently working on **Marin and DSPy**
 
 - 🌱 I’m currently learning **JAX, Distributed Systems and Compiler Optimizations**
 
-- 👯 I’m looking to collaborate on **Research around LLM Agents**
+- 👯 I’m looking to collaborate on **Research around Information Retrieval**
 
 - 👨‍💻 All of my projects are available at [my portfolio](https://www.herumbshandilya.com/projects)
 
@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **ML, DL, IoT, NLP, CV, Web**
 
-- 📫 How to reach me **herumbshandilay123@gmail.com**
+- 📫 How to reach me **herumb@stanford.edu**
 
 - ⚡ Fun fact **I stalk PyTorch in my Free Time**
 
