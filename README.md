@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **JAX, Distributed Systems and Compiler Optimizations**
 
-- 👯 I’m looking to collaborate on **Research around Information Retrieval**
+- 👯 I’m looking to collaborate on **Research around Systems and Information Retrieval**
 
 - 👨‍💻 All of my projects are available at [my portfolio](https://www.herumbshandilya.com/projects)
 
