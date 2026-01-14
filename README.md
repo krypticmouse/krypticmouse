@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **DSRs and Multi-Model Inference Systems**
 
-- 🌱 I’m currently learning **Domain Specific Compilers and Sparse Kernel Design**.
+- 🌱 I’m currently learning **Domain Specific Compilers and Information Retrieval**.
 
 - 👯 I’d love to collaborate on **Research around ML Systems and RL**.
 
